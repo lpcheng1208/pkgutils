@@ -2,7 +2,7 @@
  * @author      Liu Yongshuai<liuyongshuai@hotmail.com>
  * @date        2018-03-27 15:20
  */
-package pkg
+package pkgutils
 
 import (
 	"fmt"

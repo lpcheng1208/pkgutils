@@ -1,4 +1,4 @@
-package pkg
+package pkgutils
 
 import (
 	"io/ioutil"

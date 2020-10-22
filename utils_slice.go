@@ -1,7 +1,7 @@
 // @author      Liu Yongshuai<liuyongshuai@hotmail.com>
 // @date        2018-11-22 18:47
 
-package pkg
+package pkgutils
 
 import (
 	"math/rand"
